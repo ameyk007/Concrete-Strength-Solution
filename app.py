@@ -13,9 +13,8 @@ model = pickle.load(open("model.pkl", "rb"))
 # Sidebar
 st.sidebar.title("👨‍💻 Profile")
 st.sidebar.write("**Name:** Amey Karekar")
-st.sidebar.write("**Email:** your_email@example.com")
+st.sidebar.write("**Email:** ameykarekar9@gmail.com")
 st.sidebar.markdown("---")
-st.sidebar.success("🚀 FAANG-Level ML App")
 
 # Title
 st.title("🏗️ Concrete Strength AI Predictor")
